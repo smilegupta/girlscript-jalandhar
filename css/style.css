@@ -482,7 +482,7 @@ h6 {
 --------------------------------*/
 
 #about {
-  background: #fff;
+  background: #FF4500;
   padding: 60px 0;
 }
 
@@ -491,7 +491,7 @@ h6 {
 }
 
 #about .about-container .content {
-  background: #fff;
+  background: #FFFF00;
 }
 
 #about .about-container .title {
@@ -516,7 +516,7 @@ h6 {
 
 #about .about-container .icon-box .icon {
   float: left;
-  background: #fff;
+  background: #FFFF00;
   width: 64px;
   height: 64px;
   display: -webkit-box;
